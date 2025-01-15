@@ -119,7 +119,7 @@ To interact with the Minecraft server console:
 
 3. To detach from the `tmux` session without stopping the server, press `Ctrl+b`, then `d`.
 
-### 5. Build the Docker Image Locally
+## Build the Docker Image Locally
 
 If you want to build the image yourself:
 
